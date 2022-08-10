@@ -1,0 +1,8 @@
+server:
+  port: 1000
+
+spring:
+  application:
+    name: microservice-one
+  config:
+    import: optional:configserver:http://config-server:50000
