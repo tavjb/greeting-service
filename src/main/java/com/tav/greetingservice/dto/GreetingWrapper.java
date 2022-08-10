@@ -1,4 +1,4 @@
-package com.tav.dockerizedspringexample.dto;
+package com.tav.greetingservice.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

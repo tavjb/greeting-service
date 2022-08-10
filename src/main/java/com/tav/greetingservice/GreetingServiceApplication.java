@@ -1,4 +1,4 @@
-package com.tav.dockerizedspringexample;
+package com.tav.greetingservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

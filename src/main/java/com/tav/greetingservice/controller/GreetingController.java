@@ -1,7 +1,7 @@
-package com.tav.dockerizedspringexample.controller;
+package com.tav.greetingservice.controller;
 
-import com.tav.dockerizedspringexample.config.GreetingConfig;
-import com.tav.dockerizedspringexample.dto.GreetingWrapper;
+import com.tav.greetingservice.config.GreetingConfig;
+import com.tav.greetingservice.dto.GreetingWrapper;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
