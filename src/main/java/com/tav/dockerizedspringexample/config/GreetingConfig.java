@@ -1,4 +1,4 @@
-package com.tav.dockerizedspringexample.configclient;
+package com.tav.dockerizedspringexample.config;
 
 import lombok.Getter;
 import org.springframework.beans.factory.annotation.Value;
