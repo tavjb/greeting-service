@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequiredArgsConstructor
 public class GreetingController {
-    private final GreetingConfig config;
     private final GreetingService service;
 
     @GetMapping("{name}")
